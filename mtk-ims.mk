@@ -1,6 +1,7 @@
 # Apps
 PRODUCT_PACKAGES += \
-    ImsService
+    ImsService \
+    mediatek-res
 
 # Radio IMS
 PRODUCT_PACKAGES += \

@@ -1,5 +1,5 @@
 dex_import {
 	name: "mediatek-ims-base",
-	owner: "xiaomi",
+	owner: "oppo",
 	jars: ["mediatek-ims-base.jar"],
 }

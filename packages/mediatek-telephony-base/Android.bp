@@ -1,5 +1,5 @@
 dex_import {
 	name: "mediatek-telephony-base",
-	owner: "xiaomi",
+	owner: "oppo",
 	jars: ["mediatek-telephony-base.jar"],
 }

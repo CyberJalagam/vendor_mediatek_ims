@@ -1,5 +1,5 @@
 dex_import {
 	name: "mediatek-framework",
-	owner: "xiaomi",
+	owner: "oppo",
 	jars: ["mediatek-framework.jar"],
 }
